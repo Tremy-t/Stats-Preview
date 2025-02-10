@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/nft-preview-card-htmlcss-L89ebOUsSA)
-- Live Site : [NFT Preview card](https://tremy-t.github.io/NFT-preview-card/)
+- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/stats-preview-htmlcss-KvtVUixgtU)
+- Live Site : [Stats-Preview](https://tremy-t.github.io/Stats-Preview/)
 
 - ## Author
 
